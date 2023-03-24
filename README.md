@@ -1,3 +1,3 @@
 #Example Repository
-This is Sample Repository, Hello Worls !
-This is Second commit 
+This is Sample Repository, Hello Worlds !
+This is Second commit !
